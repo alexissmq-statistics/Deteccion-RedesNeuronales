@@ -42,7 +42,7 @@ source venv/bin/activate   # En Linux/Mac
 pip install -r requirements.txt
 ```
 
-> **Nota:** el entorno virtual (`venv/`) no se incluye en el repositorio. Cada persona que clone el proyecto debe crear el suyo y luego instalar las dependencias con el comando anterior.
+> **Nota:** el entorno virtual (`venv/`) no se incluye en el repositorio. Cada persona que clone el proyecto debe crearlo y luego instalar las dependencias con el comando anterior.
 
 ## Dataset
 
